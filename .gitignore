@@ -1,0 +1,26 @@
+# Secrets - JAMAIS sur GitHub
+.env
+.env.local
+*.env
+
+# Python
+backend/venv/
+backend/__pycache__/
+backend/**/__pycache__/
+backend/**/*.pyc
+backend/.pytest_cache/
+
+# Node
+frontend/node_modules/
+frontend/dist/
+frontend/.DS_Store
+
+# Mac
+.DS_Store
+**/.DS_Store
+
+# VS Code
+.vscode/settings.json
+
+# n8n credentials
+n8n/credentials/
