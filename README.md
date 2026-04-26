@@ -135,15 +135,6 @@ pathwise/
 
 ---
 
-## 👥 Équipe
-
-| Membre | Rôle |
-|--------|------|
-| Malak Sabirr | Frontend + Backend + Architecture |
-| Hiba Nasri | Backend + n8n Workflows + RAG |
-
----
-
 ## 📄 Variables d'environnement
 
 ```bash
